@@ -1,0 +1,75 @@
+/* Write your CSS here - remember to add Id's or classes to the HTML file */
+
+
+
+.body {
+    background-color: black;
+}
+main {
+    font: white;
+}
+.head {
+    color: white;
+    text-align: center;
+    font-size: 100px; 
+    font-family: 'Segoe UI',  Verdana, sans-serif;
+    background-image: url("./OneDrive_1_5-17-2022/Records.jpg");
+    
+}
+
+h3 {
+    color: white;
+    font-family: 'Segoe UI', Verdana, sans-serif;
+}
+
+.sale {
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Segoe UI', Verdana, sans-serif;
+    font-size: 16px;
+    color: white;
+}
+
+.selection {
+    color: white;
+    font-family: 'Segoe UI', Verdana, sans-serif;
+    font-size: 25px; 
+    text-align: center; 
+    text font-style: bold;
+    background-color: #ef8354;
+ }
+
+ .sell {
+     color: white;
+     font-family: 'Segoe UI', Verdana, sans-serif;
+     font-size: 25px; 
+    text-align: center; 
+    text font-style: bold;
+    background-color: #0e7e7c;
+ }
+
+
+ .music {
+    color: white;
+    font-family: 'Segoe UI', Verdana, sans-serif;
+    font-size: 25px; 
+   text-align: center; 
+   text font-style: bold;
+   background-color: #9c538b;
+}
+
+
+.image {
+    width: 500px;
+}
+
+a {
+    color: #ef8354;
+    
+}
+
+a:hover {
+    color: #9C528B;
+}
